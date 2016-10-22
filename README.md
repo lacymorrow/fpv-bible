@@ -3,7 +3,7 @@ _Get out of here, you probably aren't cool enough._
 
 This is where we shoot the shit and make magic happen for the FPV-WAREHOUSE youtube channel.
 
-
+# [Current Topic Ideas](https://github.com/FPV-WAREHOUSE/issues)
 
 ### What we need
 
@@ -28,7 +28,7 @@ This is where we shoot the shit and make magic happen for the FPV-WAREHOUSE yout
  
  
  ## Sbmitting topics
-If you really think your shit is worthy enoguh for our time, go ahead and post it as an [issue here](https://github.com/FPV-WAREHOUSE)
+If you really think your shit is worthy enoguh for our time, go ahead and post it as an [issue here](https://github.com/FPV-WAREHOUSE/issues)
  
  
  #### Details
