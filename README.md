@@ -8,17 +8,18 @@ This is where we shoot the shit and make magic happen for the FPV-WAREHOUSE yout
 ### What we need
 
  - Branding (Association with PROPSMAN and FALCON MULTIROTORS)
- - Reaching out to companies that may have product that can be re-tooled as FPV (Vusix, Garmen, Trackr, etc...)
+ - Unique (enough) format
  - Beautiful Pictures
  - Build videos
  - Interesting Harware (outsitde the box, doesn't need to be racing
- 
+ - Reaching out to companies that may have product that can be re-tooled as FPV (Vusix, Garmen, Trackr, etc...)
  - **Noob Section**
  - Group chat
  - Race Breakdown
  - Parts Breakdown
  - Take advantage of social
   - Every build on RotorBuids
+  - Focused youtube (pics/titles are important)
   - More live stream: Periscope / FB
   - SnapChat
   - IG / FB / TWT
