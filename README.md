@@ -7,6 +7,7 @@ This is where we shoot the shit and make magic happen for the FPV-WAREHOUSE yout
 
 ### What we need
 
+ - Logo + Identity
  - Branding (Association with PROPSMAN and FALCON MULTIROTORS)
  - Unique (enough) format
  - Beautiful Pictures
@@ -29,3 +30,7 @@ This is where we shoot the shit and make magic happen for the FPV-WAREHOUSE yout
  ## Sbmitting topics
 If you really think your shit is worthy enoguh for our time, go ahead and post it as an [issue here](https://github.com/FPV-WAREHOUSE)
  
+ 
+ #### Details
+ We've got domains and hosting in the works
+ Setting up a personal owncloud server, hopefully it can handle oodles of footage.
