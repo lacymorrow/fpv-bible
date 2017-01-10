@@ -4,6 +4,8 @@
 - POWER
 	- Power Distribution Board
 	- Battery
+	- Charging
+	- LEDs
 - CONTROL
 	- Radio Transmitter (TX)
 	- Receiver (RX)
@@ -11,12 +13,22 @@
 	- Speed Controllers (ESCs)
 		- [PWM Signal](pwm_signal.md)
 	- Motors
+	- Propellers
 - FIRST-PERSON VIEW (FPV)
 	- Camera
 	- Video Transmitter (VTX)
 	- Video Receiver (VRX)
 	- Goggles
+	- Antenna
+		- Linear
+		- Cloverleaf (Circular Polarized)
 - RECORDING
 	- Digital-Video Recording (DVR)
 	- High-Definition Recording
 - [TOOLS](tools.md)
+- ACCESSORIES
+	- Bag
+	- Chair
+	- Flag
+	- Gate
+	- Ground Station
