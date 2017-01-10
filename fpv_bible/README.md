@@ -9,10 +9,14 @@
 	- Receiver (RX)
 - DRIVE
 	- Speed Controllers (ESCs)
-		- [PWM Signal](blob/master/pwm_signal.md)
+		- [PWM Signal](pwm_signal.md)
 	- Motors
 - FIRST-PERSON VIEW (FPV)
 	- Camera
 	- Video Transmitter (VTX)
 	- Video Receiver (VRX)
 	- Goggles
+- RECORDING
+	- Digital-Video Recording (DVR)
+	- High-Definition Recording
+- [TOOLS](tools.md)
