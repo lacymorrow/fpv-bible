@@ -1,6 +1,9 @@
 # FPV Bible
 
 - FRAME
+	- What is a Quadcopter?
+	- [Miniquad](miniquad.md)
+	- [Micro](micro.md)
 - POWER
 	- Power Distribution Board
 	- Battery
@@ -13,6 +16,7 @@
 	- Speed Controllers (ESCs)
 		- [PWM Signal](pwm_signal.md)
 	- Motors
+		- [Brushed vs. Brushless](brushed-brushless.md)
 	- Propellers
 - FIRST-PERSON VIEW (FPV)
 	- Camera
