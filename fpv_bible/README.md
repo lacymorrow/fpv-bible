@@ -17,6 +17,7 @@
 	- LEDs
 - CONTROL
 	- Radio Transmitter (TX)
+		- [Protocols](protocols.md)
 		- Telemetry
 			- Battery Telemetry
 			- RSSI (Radio Signal Strength Indication)
