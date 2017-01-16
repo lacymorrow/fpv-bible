@@ -46,6 +46,14 @@
 
 - BUILDING
 	- Sanding the Carbon Fiber
+	- Battery Strap and Protector
+	- Power Distribution and Battery Lead
+	- Speed Controllers
+	- Motors
+	- Flight Controller
+	- Receiver
+	- Video Transmitter
+	- Camera
 
 # Flight School
 
