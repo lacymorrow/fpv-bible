@@ -79,5 +79,5 @@
 - Get Involved
 	- Meetup
 	- Facebook groups local
-	- [FPVChat Slack](fpv-chat.com)
+	- [FPVChat Slack](http://www.fpv-chat.com)
 
