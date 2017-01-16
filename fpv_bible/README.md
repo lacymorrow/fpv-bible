@@ -5,7 +5,7 @@
 
 - [FRAME](src/frame.md)
 	- What is a Quadcopter?
-		- The [Anatomy of a Quad](src/anatomy.md)
+		- [Anatomy of a Quad](src/anatomy.md)
 	- [Miniquad](src/miniquad.md)
 	- [Micro](src/micro.md)
 - POWER
@@ -43,9 +43,14 @@
 		- Linear
 		- Cloverleaf (Circular Polarized)
 
+- BUILDING
+	- Sanding the Carbon Fiber
+
 # Flight School
 
+- Mode Comparison
 - Simulators
+- Flight 101
 
 
 # Optional
@@ -67,6 +72,3 @@
 	- Facebook groups local
 	- [FPVChat Slack](fpv-chat.com)
 
-
-
- > Created b
