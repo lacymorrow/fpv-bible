@@ -1,6 +1,5 @@
 # FPV-WAREHOUSE
-_Get out of here, you probably aren't cool enough._
-
+_Making FPV Magic_
 This is where we shoot the shit and make magic happen for the FPV-WAREHOUSE youtube channel.
 
 ## [Current Video Topic Ideas](https://github.com/lacymorrow/FPV-WAREHOUSE/issues)
