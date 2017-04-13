@@ -1,5 +1,5 @@
 # FPV-WAREHOUSE
-_Get out of here, you probably aren't cool enough._
+_Let's make FPV Magic_
 
 This is where we shoot the shit and make magic happen for the FPV-WAREHOUSE youtube channel.
 
