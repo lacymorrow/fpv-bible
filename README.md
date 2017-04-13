@@ -1,36 +1,83 @@
-# FPV-WAREHOUSE
-_Get out of here, you probably aren't cool enough._
+# FPV Bible
 
-This is where we shoot the shit and make magic happen for the FPV-WAREHOUSE youtube channel.
+ > Intending to be a comprehensive source for the FPV community, regardless of skill level. Poke around, learn something new, and please notify us if you see any outdated or information that can be inproved. Pull Requests welcome.
 
-## [Current Video Topic Ideas](https://github.com/lacymorrow/FPV-WAREHOUSE/issues)
 
-### What we need
+- [FRAME](src/frame.md)
+	- What is a Quadcopter?
+		- [Anatomy of a Quad](src/anatomy.md)
+	- [Miniquad](src/miniquad.md)
+	- [Micro](src/micro.md)
+- POWER
+	- Serial vs. Parallel
+	- Power Distribution Board
+		- Regulators
+	- Battery
+	- Charging
+	- LEDs
+- CONTROL
+	- Radio Transmitter (TX)
+		- [Protocols](protocols.md)
+		- Telemetry
+			- Battery Telemetry
+			- RSSI (Radio Signal Strength Indication)
+			- GPS, Return to Home, & other special features
+	- Receiver (RX)
+		-Failsafe And How to crash gracefully
+- DRIVE
+	- Speed Controllers (ESCs)
+		- [PWM Signal](src/pwm_signal.md)
+		- [PPM Signal](src/ppm_signal.md)
+	- Motors
+		- [Brushed vs. Brushless](src/brushed_brushless.md)
+		- Racing Motors
+	- Propellers
+		- Myths
+- FIRST-PERSON VIEW (FPV)
+	- Etiquette
+	- Camera
+	- Video Transmitter (VTX)
+	- Video Receiver (VRX)
+	- Goggles
+	- OSD (On Screen Display)
+	- Antenna
+		- Linear
+		- Cloverleaf (Circular Polarized)
 
- - Logo + Identity
- - Branding (Association with PROPSMAN and FALCON MULTIROTORS)
- - Unique (enough) format
- - Beautiful Pictures
- - Build videos
- - Interesting Harware (outsitde the box, doesn't need to be racing
- - Reaching out to companies that may have product that can be re-tooled as FPV (Vusix, Garmen, Trackr, etc...)
- - **Noob Section**
- - Group chat
- - Race Breakdown
- - Parts Breakdown
- - Take advantage of social
-  - Every build on RotorBuids
-  - Focused youtube (pics/titles are important)
-  - More live stream: Periscope / FB
-  - SnapChat
-  - IG / FB / TWT
-  
- 
- 
- ## Sbmitting topics
-If you really think your shit is worthy enoguh for our time, go ahead and post it as an [issue here](https://github.com/FPV-WAREHOUSE/issues)
- 
- 
- #### Details
- We've got domains and hosting in the works
- Setting up a personal owncloud server, hopefully it can handle oodles of footage.
+- BUILDING
+	- Sanding the Carbon Fiber
+	- Battery Strap and Protector
+	- Power Distribution and Battery Lead
+	- Speed Controllers
+	- Motors
+	- Flight Controller
+	- Receiver
+	- Video Transmitter
+	- Camera
+
+# Flight School
+
+- Mode Comparison
+- Simulators
+- Flight 101
+
+
+# Optional
+
+- RECORDING
+	- Digital-Video Recording (DVR)
+	- High-Definition Recording
+- [TOOLS](src/tools.md)
+- ACCESSORIES
+	- Bag
+	- Chair
+	- Flag
+	- Gate
+	- Ground Station
+
+
+- Get Involved
+	- Meetup
+	- Facebook groups local
+	- [FPVChat Slack](http://www.fpv-chat.com)
+
