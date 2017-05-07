@@ -1,0 +1,3 @@
+Since video transmitter and camera are isolated from the rest of the quadcopter (except for power) is is usually safe from interference [ook up active braking issues].
+	- If you are receiving static on all channels, it's possible your camera may be broken
+	- If you can find a channel transmitting black, usually the video transmitter [VTX] is working properly. An OSDD can complicate the setup.
