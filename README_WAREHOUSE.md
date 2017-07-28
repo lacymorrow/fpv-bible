@@ -33,3 +33,25 @@ If you really think your shit is worthy enoguh for our time, go ahead and post i
  #### Details
  We've got domains and hosting in the works
  Setting up a personal owncloud server, hopefully it can handle oodles of footage.
+
+
+ #### Inspiration 
+
+ * RR (personailities could use work, not like the "normal" pilot)
+ * FPV Mix (web insoiration for spinrc/spinfpv)
+ * FPV.fm (new)
+ * Falisafe (noobs)
+ * Quadtalk (was 12th, losing traction but we can boost)
+ * SHOWMEWHATYOUGOT (random release, good pilots on ok topics)
+
+ No one travels but RR. A real-world style thing would be interestig. Time; Budget challenges; Weekly sponswer
+
+
+ #### Domains
+ 
+ * 7x7aerial.com - AP/Real Estate/Other
+ * flymore.io - our own racing comminity/brand
+ * fpvprime.com - curated amazon prime listings
+ * sfdronerepair.com - drone repir for the bay area; racing and AP!
+ * spinfpv.com - FPV News
+ * spinrc.com	- FPV Events
