@@ -44,7 +44,7 @@
 		- Linear
 		- Cloverleaf (Circular Polarized)
 
-- BUILDING
+- BUILDING A QUAD
 	- Sanding the Carbon Fiber
 	- Battery Strap and Protector
 	- Power Distribution and Battery Lead
@@ -78,6 +78,6 @@
 
 - Get Involved
 	- Meetup
-	- Facebook groups local
-	- [FPVChat Slack](http://www.fpv-chat.com)
-
+	- Facebook groups
+	- [FPV-Chat Slack Channel](http://www.fpv-chat.com)
+	- [Flymore Academy Flight School](http://flymore.academy)
