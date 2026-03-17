@@ -1,83 +1,40 @@
-# FPV Bible
+<h1 align="center">🚁 FPV Bible</h1>
 
- > Intending to be a comprehensive source for the FPV community, regardless of skill level. Poke around, learn something new, and please notify us if you see any outdated or information that can be inproved. Pull Requests welcome.
+<p align="center">
+  <strong>A comprehensive, open-source guide to building and flying FPV drones.</strong>
+</p>
 
+<p align="center">
+  <a href="https://fpvbible.com"><img alt="Website" src="https://img.shields.io/badge/Read_it_live-fpvbible.com-blue?style=flat-square" /></a>
+  <a href="https://github.com/lacymorrow/fpv-bible-site/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/lacymorrow/fpv-bible-site?style=flat-square" /></a>
+  <a href="https://github.com/lacymorrow/fpv-bible-site/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square" /></a>
+</p>
 
-- [FRAME](src/frame.md)
-	- What is a Quadcopter?
-		- [Anatomy of a Quad](src/anatomy.md)
-	- [Miniquad](src/miniquad.md)
-	- [Micro](src/micro.md)
-- POWER
-	- Serial vs. Parallel
-	- Power Distribution Board
-		- Regulators
-	- Battery
-	- Charging
-	- LEDs
-- CONTROL
-	- Radio Transmitter (TX)
-		- [Protocols](protocols.md)
-		- Telemetry
-			- Battery Telemetry
-			- RSSI (Radio Signal Strength Indication)
-			- GPS, Return to Home, & other special features
-	- Receiver (RX)
-		-Failsafe And How to crash gracefully
-- DRIVE
-	- Speed Controllers (ESCs)
-		- [PWM Signal](src/pwm_signal.md)
-		- [PPM Signal](src/ppm_signal.md)
-	- Motors
-		- [Brushed vs. Brushless](src/brushed_brushless.md)
-		- Racing Motors
-	- Propellers
-		- Myths
-- FIRST-PERSON VIEW (FPV)
-	- Etiquette
-	- Camera
-	- Video Transmitter (VTX)
-	- Video Receiver (VRX)
-	- Goggles
-	- OSD (On Screen Display)
-	- Antenna
-		- Linear
-		- Cloverleaf (Circular Polarized)
+**[Read it live → fpvbible.com](https://fpvbible.com)**
 
-- BUILDING A QUAD
-	- Sanding the Carbon Fiber
-	- Battery Strap and Protector
-	- Power Distribution and Battery Lead
-	- Speed Controllers
-	- Motors
-	- Flight Controller
-	- Receiver
-	- Video Transmitter
-	- Camera
+## Contributing
 
-# Flight School
+Every page has an **"Edit page"** link. Click it, make your changes, submit a PR. No dev setup needed.
 
-- Mode Comparison
-- Simulators
-- Flight 101
+For more details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
+### What we need most
 
-# Optional
+- **Expand stubs** — Most pages need more detail. Pick one with a yellow "Stub" banner and go deep.
+- **Fix outdated info** — The hobby moves fast. Help us stay current.
+- **Add photos** — Build photos, diagrams, wiring examples.
+- **Share your experience** — What do you wish you knew when you started?
 
-- RECORDING
-	- Digital-Video Recording (DVR)
-	- High-Definition Recording
-- [TOOLS](src/tools.md)
-- ACCESSORIES
-	- Bag
-	- Chair
-	- Flag
-	- Gate
-	- Ground Station
+## Development
 
+```bash
+npm install
+npm run dev       # http://localhost:4321
+npm run build     # Production build
+```
 
-- Get Involved
-	- Meetup
-	- Facebook groups
-	- [FPV-Chat Slack Channel](http://www.fpv-chat.com)
-	- [Flymore Academy Flight School](http://flymore.academy)
+Built with [Astro Starlight](https://starlight.astro.build/).
+
+## License
+
+MIT
