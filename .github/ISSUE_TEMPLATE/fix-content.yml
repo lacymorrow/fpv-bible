@@ -1,0 +1,31 @@
+name: 🐛 Content Fix
+description: Report incorrect, outdated, or unclear information
+title: "[Fix] "
+labels: ["fix", "content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found something wrong? Help us keep the FPV Bible accurate.
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Which page has the issue?
+      placeholder: e.g., "Drive > Motors" or URL
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Describe what's incorrect, outdated, or unclear.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction
+      description: What should it say instead? (optional)
+    validations:
+      required: false

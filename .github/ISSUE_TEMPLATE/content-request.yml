@@ -1,0 +1,55 @@
+name: 📝 Content Request
+description: Suggest a new topic or page for the FPV Bible
+title: "[Content] "
+labels: ["content", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting new content! The FPV Bible grows through community contributions.
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: What topic or page should be added?
+      placeholder: e.g., "DJI O4 system comparison", "How to solder XT60 connectors"
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      description: Which section does this belong in?
+      options:
+        - Getting Started
+        - Frame
+        - Power
+        - Control
+        - Drive
+        - FPV
+        - Building a Quad
+        - Flight School
+        - Recording
+        - Tools & Accessories
+        - Tips & Troubleshooting
+        - Community
+        - New Section
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What should this page cover?
+      description: Bullet points are fine. What key info should be included?
+      placeholder: |
+        - How the system works
+        - Pros and cons
+        - What to buy for beginners
+    validations:
+      required: false
+  - type: checkboxes
+    id: volunteer
+    attributes:
+      label: Can you write this?
+      options:
+        - label: I'd like to write this content (or help write it)

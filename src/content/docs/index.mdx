@@ -1,0 +1,38 @@
+---
+title: FPV Bible
+description: A comprehensive, open-source guide to building First-Person-View (FPV) racing drones, and drones in general.
+template: splash
+hero:
+  tagline: Everything you need to know about building and flying FPV drones. From your first build to the racing circuit.
+  actions:
+    - text: Start Reading
+      link: /getting-started/introduction/
+      icon: right-arrow
+      variant: primary
+    - text: View on GitHub
+      link: https://github.com/lacymorrow/fpv-bible
+      icon: external
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid stagger>
+	<Card title="Frame" icon="pencil">
+		Learn about quad frames, sizes, and configurations. From miniquads to micros.
+	</Card>
+	<Card title="Power" icon="setting">
+		Batteries, power distribution, charging, and keeping your quad lit up.
+	</Card>
+	<Card title="Control" icon="rocket">
+		Radio transmitters, receivers, protocols, telemetry, and failsafes.
+	</Card>
+	<Card title="First-Person View" icon="open-book">
+		Cameras, video transmitters, goggles, OSD, and antennas.
+	</Card>
+	<Card title="Building a Quad" icon="puzzle">
+		Step-by-step build guide from sanding carbon fiber to your first hover.
+	</Card>
+	<Card title="Flight School" icon="star">
+		Modes, simulators, and learning to fly.
+	</Card>
+</CardGrid>

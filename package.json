@@ -1,0 +1,19 @@
+{
+  "name": "fpv-bible-site",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.58",
+    "@astrojs/starlight": "^0.37.7",
+    "ai": "^6.0.116",
+    "astro": "^5.6.1",
+    "sharp": "^0.34.2"
+  }
+}
