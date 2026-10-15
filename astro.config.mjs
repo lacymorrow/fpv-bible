@@ -17,7 +17,15 @@ export default defineConfig({
 						defer: true,
 					},
 				},
+				{
+					tag: 'script',
+					attrs: { src: 'https://www.lacymorrow.com/more.js', defer: true },
+				},
 			],
+			components: {
+				// Adds the "Also by Lacy Morrow" line under the default footer.
+				Footer: './src/components/Footer.astro',
+			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/lacymorrow/fpv-bible-site' }],
 			editLink: {
 				baseUrl: 'https://github.com/lacymorrow/fpv-bible-site/edit/main/',
