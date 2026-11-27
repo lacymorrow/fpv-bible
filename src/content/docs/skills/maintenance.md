@@ -43,6 +43,14 @@ More thorough inspection:
 
 ## Common Repairs
 
+### Before Ordering DJI Goggle Parts
+
+Record the full headset name from the label before comparing replacement parts. DJI Goggles 2, DJI Goggles Integra, and DJI FPV Goggles V2 are different models. Look up the exact headset in [DJI's Avata compatibility FAQ](https://www.dji.com/avata/faq) or on the support page for the drone you fly.
+
+- With the headset powered off, take photos of the model label and the affected part, connector, or mounting point you can see from the outside. Mask any serial number before sharing photos in public.
+- Ask the seller to confirm the exact headset model for the proposed part. If the part needs a specific revision or side, ask for an identifying photo or part number before ordering.
+- For a pre-owned headset or accessory, [Reboot Hub's goggles inspection guide](https://reboot-hub.com/blogs/the-reboot-hub-chronicle/dji-goggles-fpv-buying-guide-compatibility-condition-region) has a checklist for lenses, controls, power accessories, and included items.
+
 ### Replacing an Arm
 
 Most modern frames use individual replaceable arms:
